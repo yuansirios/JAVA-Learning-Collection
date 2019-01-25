@@ -3,7 +3,7 @@
 
 ##### 1、查看是否安装了jdk
 
-终端输入 `jaca -verison`
+终端输入 `java -verison`
 
 如果没有安装过jdk会提示 需要安装jdk。
 
